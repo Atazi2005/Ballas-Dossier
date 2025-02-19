@@ -180,5 +180,15 @@ h3 {
     flex: 1;
     margin-right: 20px;
 }
+h3 {
+    color: #ffd700; /* Or pour mettre en évidence les titres */
+    margin-top: 20px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
+
+section ul li {
+    margin: 10px 0;
+    line-height: 1.5;
+}
 
 
